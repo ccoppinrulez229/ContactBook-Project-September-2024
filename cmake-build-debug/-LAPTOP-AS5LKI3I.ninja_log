@@ -1,0 +1,10 @@
+# ninja log v6
+30	18706	7484548621071698	CMakeFiles/Lab_3___Pointers__References__Operator_Overloading.dir/ContactBook.cpp.obj	621ca58c0682af07
+18714	21590	7484548808014285	CMakeFiles/Lab_3___Pointers__References__Operator_Overloading.dir/main.cpp.obj	8535ed6776a2b4fa
+22	4609	7484554641088926	CMakeFiles/Lab_3___Pointers__References__Operator_Overloading.dir/test_2.cpp.obj	7296909e78de9294
+13	2689	7484618107834467	build.ninja	54ebf7b08938e05e
+21590	23511	7484548836671481	CMakeFiles/Lab_3___Pointers__References__Operator_Overloading.dir/old_tests.cpp.obj	36d0ca2891d1d1b7
+44902	51885	7484549069863141	CMakeFiles/Lab_3___Pointers__References__Operator_Overloading.dir/test_4.cpp.obj	14e7d8244e5ea384
+23511	32769	7484548855830415	CMakeFiles/Lab_3___Pointers__References__Operator_Overloading.dir/test_1.cpp.obj	6d38611b1f5d732e
+40804	44902	7484549028888476	CMakeFiles/Lab_3___Pointers__References__Operator_Overloading.dir/test_3.cpp.obj	8eab623bb10d2bfa
+50	455	7484552548922634	Lab_3___Pointers__References__Operator_Overloading.exe	f9be1d0762812463
